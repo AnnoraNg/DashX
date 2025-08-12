@@ -1,6 +1,7 @@
 # DashX
 
 DashX is a fast-paced endless runner built entirely in a single HTML file, using embedded CSS for styling and JavaScript for game logic.  
+
 I made this game as a personal coding challenge to see how much I could pack into one file while keeping it fully playable on both desktop and mobile.
 
 The idea started from a basic endless runner, but I wanted to make it unique by adding:
@@ -69,4 +70,5 @@ No external libraries or frameworks are used.
 
 ## Feedback
 This is the first release of DashX. I’ll continue to update the game with more features over time.  
+
 Feedback and suggestions are welcome — feel free to open an issue or share your ideas.
