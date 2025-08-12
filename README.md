@@ -1,2 +1,20 @@
 # DashX
-DashX is a fast-paced endless runner built entirely in HTML5 Canvas with keyboard and touch controls. Players jump and double-jump to avoid obstacles while aiming for the highest score. Includes multiple visual themes, dynamic difficulty, and mobile-friendly scaling for smooth gameplay across devices.
+
+DashX is a fast-paced endless runner built with HTML5 Canvas. Jump and double-jump to dodge obstacles, survive as long as possible, and aim for the highest score. Playable on desktop (keyboard) and mobile (touch controls).
+
+## Features
+- Endless runner gameplay with increasing difficulty
+- Multiple visual themes
+- Keyboard and touch controls
+- Mobile-friendly scaling
+- Score tracking
+
+## Controls
+
+**Desktop:**
+- Space or Up Arrow – Jump
+- Double-tap Space/Up – Double Jump
+
+**Mobile:**
+- Tap – Jump
+- Double-tap – Double Jump
